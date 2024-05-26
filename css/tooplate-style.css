@@ -433,6 +433,15 @@
     .navbar-default .navbar-toggle:focus { 
       background-color: transparent;
     }
+      .navbar-brand {
+      display: inline-block;
+      vertical-align: middle;
+      position: relative;
+  }
+  
+  .navbar-brand img {
+      margin-left: 5px; /* Espaçamento entre o texto e o ícone */
+  }
 
 
 
